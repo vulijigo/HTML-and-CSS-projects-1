@@ -1,0 +1,10 @@
+p {
+	color: yellow;
+	background: black;
+	font-style: bold;
+	text-align: center;
+}
+/* This is my style */
+h1 {
+	text-shadow: 2px 2px #ff0000
+}
